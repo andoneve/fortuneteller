@@ -5,9 +5,9 @@ User gives some information about themselves and the program tells their fortune
 REMEMBER: There is no right answer!!!! If your code meets the program requirements, then it works.
 
 ## Concepts
-- different types of input and arguments
-- variable types (string, integer, float, boolean)
-- conditionals (if/else statements)
+- different types of input and arguments (review gets.chomp and ARGV. also review arguments)
+- variable types (string, integer, float, boolean) and use of to_i (http://apidock.com/ruby/String/to_i), to_s, etc
+- conditionals (if/else statements) (http://www.tutorialspoint.com/ruby/ruby_if_else.htm)
 - case statements (https://www.blackbytes.info/2015/10/ruby-case/)
 
 ## Program Requirements
@@ -19,13 +19,13 @@ REMEMBER: There is no right answer!!!! If your code meets the program requiremen
 3. User can decide whether or not they want their fortune told and program responds.  
 *discuss boolean
 
-4. If user decides to have their fortune told, program asks one detail (you decide). Depending on this detail, the program tells the user's fortune.  
+4. If user decides to have their fortune told, program asks one detail about the user (remember - is the answer to the question an integer, a boolean or a string?). Depending on this detail, the program tells the user's fortune.  
 *discuss conditionals
 
 5. User is asked more than one detail about their life and program tells fortune depending on those details.
 
 6. Play with your code and make the combinations more complex  
-*discuss 'case statements' (https://www.blackbytes.info/2015/10/ruby-case/)
+*discuss 'case statements'
 
 
 Example output:
