@@ -9,6 +9,7 @@ REMEMBER: There is no right answer!!!! If your code meets the program requiremen
 - variable types (string, integer, float, boolean) and use of to_i (http://apidock.com/ruby/String/to_i), to_s, etc
 - conditionals (if/else statements) (http://www.tutorialspoint.com/ruby/ruby_if_else.htm)
 - case statements (https://www.blackbytes.info/2015/10/ruby-case/)
+- using boolean logic (https://learnrubythehardway.org/book/ex27.html and 28 - this person says to memorize these tables, that doesn't make sense. don't do that ;))
 
 ## Program Requirements
 1. User can enter their name and program responds, "Hi, [user name]"
